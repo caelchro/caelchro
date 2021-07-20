@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caelchro
 - 👀 I’m interested in development, I'm a old-school programmer, I worked with C++, J2EE and PHP mainly, and a lot of Data Base motors... but I'm a little outdated so I'm working (and learning) Laravel 8
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, JetStream, Livewire, TailwindCSS, etc, etc, etc...
 - 💞️ I’m looking to collaborate on mmm
 - 📫 caelchro@gmail.com
 
